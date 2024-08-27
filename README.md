@@ -12,10 +12,11 @@ I'm a full-stack developer from Indonesia with experience in building web applic
 ### 🌱 Currently Working On:
 - A **personal website** with integrated **anime-related APIs**
 
-### 📊 GitHub Stats:
-![Yakobus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YakobusIP&show_icons=true&theme=onedark)
+### 📊 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakobusIP&layout=compact&hide=css,html&theme=onedark)
 
+### 📈 GitHub Stats:
+![Yakobus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YakobusIP&show_icons=true&theme=onedark)
 
 ### 🔗 Connect with Me:
 - [LinkedIn](https://linkedin.com/in/yakobus-iryanto-prasethio)
